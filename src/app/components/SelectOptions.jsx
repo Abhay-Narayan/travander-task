@@ -53,7 +53,7 @@ const SelectOptions = () => {
             </div>
           </div>
         </div>
-        <MagnifyingGlassIcon class="h-7 w-7 text-sky-500" />
+        <MagnifyingGlassIcon className="h-7 w-7 text-sky-500" />
 
       </div>
   )
